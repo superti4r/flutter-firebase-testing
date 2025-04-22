@@ -1,4 +1,4 @@
-# firebase
+# Flutter Firebase :: Storing data using Realtime Database
 
 A new Flutter project.
 
